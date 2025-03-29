@@ -15,8 +15,6 @@
 
 ---
 
-### 🧰 Tech Stack
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
