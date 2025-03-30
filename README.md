@@ -22,8 +22,6 @@
   <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white"></a>
-    <a href="#"><img alt="LESS" src="https://img.shields.io/badge/LESS-1D365D.svg?logo=less&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -44,13 +42,14 @@
     <a href="#"><img alt="RTK Query" src="https://img.shields.io/badge/RTK%20Query-764ABC.svg?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="Tanstack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154.svg?logo=react-query&logoColor=white"></a>
     <a href="#"><img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4.svg?logo=axios&logoColor=white"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white"></a>
+    <a href="#"><img alt="LESS" src="https://img.shields.io/badge/LESS-1D365D.svg?logo=less&logoColor=white"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/MUI-007FFF.svg?logo=mui&logoColor=white"></a>
     <a href="#"><img alt="Styled Components" src="https://img.shields.io/badge/Styled--Components-DB7093.svg?logo=styled-components&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Zustand" src="https://img.shields.io/badge/Zustand-000000.svg?logo=react&logoColor=white"></a>
-    <a href="#"><img alt="BEM" src="https://img.shields.io/badge/BEM-000000.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="i18n" src="https://img.shields.io/badge/i18n-0078d7.svg?logo=translate&logoColor=white"></a>
   </p>
 
@@ -98,16 +97,6 @@
     <a href="#"><img alt="Stylesheet" src="https://img.shields.io/badge/Stylesheet-000000.svg?logo=css3&logoColor=white"></a>
   </p>
 
-  <h3>📡 Collaboration and Tools</h3>
-
-  <p>
-    <a href="a"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="a"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
-    <a href="a"><img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE.svg?logo=clickup&logoColor=white"></a>
-    <a href="a"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="a"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-
   <h3>🧠 AI and APIs</h3>
 
   <p>
@@ -124,18 +113,28 @@
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
+  <h3>📋 Methodologies and Project Management</h3>
+
+  <p>
+    <a href="#"><img alt="BEM" src="https://img.shields.io/badge/BEM-000000.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="Agile" src="https://img.shields.io/badge/Agile-0052CC.svg?logo=agile&logoColor=white"></a>
+    <a href="#"><img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F.svg?logo=scrumalliance&logoColor=white"></a>
+    <a href="#"><img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE.svg?logo=clickup&logoColor=white"></a>
+    <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
+</p>
+
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
 
