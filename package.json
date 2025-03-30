@@ -1,0 +1,11 @@
+{
+  "name": "readme-formatter",
+  "version": "1.0.0",
+  "description": "Prettier formatter for README.md",
+  "scripts": {
+    "format": "prettier --write \"**/*.md\""
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
