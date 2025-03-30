@@ -145,20 +145,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alex3584&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Alex3584&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexfullstack&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfullstack&theme=react-dark" />
