@@ -8,8 +8,6 @@
   </a>
 </h1>
 
-<h1 align="center">Nice to meet you! 👋</h1>
-
 <!-- 🔻 GIF-приветствие -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
