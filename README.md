@@ -2,12 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=Alex3584&style=flat-square&color=00C0FF" alt="profile views" />
 </p>
 
-<!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Oleksandr....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1> -->
+</h1>
 
 <h1 align="center">Nice to meet you! 👋</h1>
 
@@ -42,7 +41,7 @@
 - 🔭 Currently working on freelance/full-time opportunities  
 - 🌱 Learning: NestJS, Prisma, English & Spanish  
 - 💬 Ask me about React, Node.js, TypeScript  
-- 📫 Reach me: oleksandr.kolesnyk@yourmail.com
+- 📫 Reach me: kolesnyk05071984@gmail.com
 
 ---
 
@@ -176,19 +175,23 @@
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Alex3584/movies-db.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=movies-db.git&theme=tokyonight" />
+  <a href="https://github.com/Alex3584/movies-db">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=movies-db&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Alex3584/To-Do-List.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=To-Do-List.git&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Alex3584/ai-translate.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=ai-translate.git&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Alex3584/react-hooks-lab.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=react-hooks-lab.git&theme=tokyonight" />
+  <a href="https://github.com/Alex3584/To-Do-List">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=To-Do-List&theme=tokyonight" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Alex3584/ai-translate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=ai-translate&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Alex3584/react-hooks-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=react-hooks-lab&theme=tokyonight" />
+  </a>
+</p>
+
 
 ---
 
@@ -204,9 +207,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex3584&theme=react-dark" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=Alex3584&theme=tokyonight" />
 </p>
 
 ---
