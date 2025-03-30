@@ -211,9 +211,3 @@
 </p>
 
 ---
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex3584&theme=react-dark" />
-</p>
