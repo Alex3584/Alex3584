@@ -84,8 +84,7 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="44" height="44"/>
       <sub>MySQL</sub>
       </td>
-  </tr>
-    <td align="center" width="88">
+   <td align="center" width="88">
         <img src="https://icongr.am/devicon/sass-original.svg?size=40&color=currentColor" alt="Sass" width="44" height="44"/>
       <sub>Sass</sub>
     </td>
@@ -93,6 +92,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" alt="Babel" width="44" height="44"/>
       <sub>Babel</sub>
     </td>
+  </tr>
+    
     <td align="center"  width="88">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/>
       <sub>Tailwind</sub>
