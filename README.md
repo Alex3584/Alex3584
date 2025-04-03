@@ -54,7 +54,7 @@
     </td>
     <td align="center" width="88">
         <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
-      <small>CSS3</small>
+      <sub>CSS3</sub>
     </td>
 <td align="center" width="88">
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
