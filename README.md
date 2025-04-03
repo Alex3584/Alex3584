@@ -45,27 +45,35 @@
 
 <h2 align="center">🧰 My Tech Stack</h2>
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="border-radius: 50%; box-shadow: 0 0 6px #ff4500;" title="HTML5" />
-    <br /><sub><b>HTML5</b></sub>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="border-radius: 50%; box-shadow: 0 0 6px #1e90ff;" title="CSS3" />
-    <br /><sub><b>CSS3</b></sub>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="border-radius: 50%; box-shadow: 0 0 6px gold;" title="JavaScript" />
-    <br /><sub><b>JavaScript</b></sub>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" style="border-radius: 50%; box-shadow: 0 0 6px #007acc;" title="TypeScript" />
-    <br /><sub><b>TypeScript</b></sub>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" style="border-radius: 50%;" />
+        <br />HTML5
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" style="border-radius: 50%;" />
+        <br />CSS3
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" style="border-radius: 50%;" />
+        <br />JavaScript
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" style="border-radius: 50%;" />
+        <br />TypeScript
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
