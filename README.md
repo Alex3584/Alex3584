@@ -57,7 +57,7 @@
       <sub>CSS3</sub>
     </td>
     <td align="center" width="88">
-         <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor" alt="JS" width="44" height="44"/>
+         <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="JS" width="44" height="44"/>
       <sub>JavaScript</sub>
     </td>
     <td align="center" width="88">
