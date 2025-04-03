@@ -49,7 +49,7 @@
 <table align="center">
   <tr>
      <td align="center"  width="88">
-         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"/>
       <br>HTML5
     </td>
     <td align="center" width="88">
