@@ -50,77 +50,93 @@
   <tr>
      <td align="center"  width="88">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"/>
-      <br>HTML5
+      <sub>HTML5</sub>
     </td>
     <td align="center" width="88">
-        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
+        <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" alt="CSS3" width="44" height="44"/>
       <sub>CSS3</sub>
     </td>
-<td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
-      <br>JavaScript
+    <td align="center" width="88">
+         <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor" alt="JS" width="44" height="44"/>
+      <sub>JavaScript</sub>
     </td>
     <td align="center" width="88">
-        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
-      <br>TypeScript
+        <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor" alt="TS" width="44" height="44"/>
+     <sub>TypeScript</sub>
     </td>
     <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
+        <img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python" width="44" height="44"/>
+      <sub>Python</sub>
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React.js
+        <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="React" width="44" height="44"/>
+      <sub>React.js</sub>
     </td>
     <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
-      <br>Next.js
+        <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=40&color=currentColor" alt="npm" width="44" height="44"/>
+      <sub>npm</sub>
     </td>
     <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
-      <br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="44" height="44"/>
+      <sub>Node.js</sub>
     </td>
         <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="44" height="44"/>
+      <sub>MySQL</sub>
       </td>
   </tr>
     <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
-      <br>Sass
+        <img src="https://icongr.am/devicon/sass-original.svg?size=40&color=currentColor" alt="Sass" width="44" height="44"/>
+      <sub>Sass</sub>
     </td>
     <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
-      <br>BEM
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" alt="Babel" width="44" height="44"/>
+      <sub>Babel</sub>
     </td>
     <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
-      <br>Tailwind
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/>
+      <sub>Tailwind</sub>
     </td>
     <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
-      <br>Redux
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="44" height="44"/>
+      <sub>Redux</sub>
     </td>
       <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="44" height="44"/>
+      <sub>Postman</sub>
     </td>
       </td>
       <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="44" height="44"/>
+      <sub>PostgreSQL</sub>
      </td>
      <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
-      <br>Git
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="44" height="44"/>
+      <sub>Git</sub>
     </td>
-  <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
+ <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="44" height="44"/>
+      <sub>PHP</sub>
+     </td>
+ <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="WordPress" width="44" height="44"/>
+      <sub>WordPress</sub>
+     </td>
+ <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="44" height="44"/>
+      <sub>Laravel</sub>
+     </td>
+ <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" width="44" height="44"/>
+      <sub>Vite</sub>
      </td>
   <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
-      <br>Figma
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="44" height="44"/>
+      <sub>VSCode</sub>
+     </td>
+  <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="44" height="44"/>
+      <sub>Figma</sub>
      </td>
 </table>
 </div>
