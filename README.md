@@ -197,7 +197,17 @@
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Alex3584&show_icons=true&theme=tokyonight" /> -->
- <img src="https://github-readme-stats.vercel.app/api?username=Alex3584&show_icons=true&hide_rank=true&theme=tokyonight" />
+ <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Alex3584&show_icons=true&hide_rank=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" />
+    </td>
+  </tr>
+</table>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight" />
 
 </p>
