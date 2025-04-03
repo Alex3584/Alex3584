@@ -93,7 +93,6 @@
       <sub>Babel</sub>
     </td>
   </tr>
-    
     <td align="center"  width="88">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/>
       <sub>Tailwind</sub>
