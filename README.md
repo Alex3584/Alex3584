@@ -43,7 +43,7 @@
 
 ---
 
-<h2 align="center">🧰 My Tech Stack</h2>
+## 🧰 My Tech Stack</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
