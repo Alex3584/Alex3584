@@ -35,11 +35,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌍 Based in Argentina  
-- 🔭 Currently working on freelance/full-time opportunities  
-- 🌱 Learning: NestJS, Prisma, English & Spanish  
-- 💬 Ask me about React, Node.js, TypeScript  
-- 📫 Reach me: kolesnyk05071984@gmail.com
+Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technology, and lifelong learning.
+
+- 🌍 Originally from **Ukraine**, currently living in **Argentina**
+- ✈️ I've visited **4 continents, 23 countries, and 88 cities**
+- 👨‍💻 I enjoy building products using **React**, **Node.js**, and **TypeScript**
+- 🔭 Currently working on freelance and personal projects
+- 🌱 Actively learning **English** and **Spanish**
+- 🎯 In 2025, my goal is to explore **new technologies** and work on a truly **exciting and ambitious project**
+- 🤝 **Open to collaboration and new opportunities** — always happy to connect with great people and ideas
 
 ---
 
