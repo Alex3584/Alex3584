@@ -168,16 +168,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Alex3584&show_icons=true&rank_icon=github&theme=tokyonight"
-    height="200"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight"
-    height="200"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Alex3584&show_icons=true&rank_icon=github&theme=tokyonight"
+        height="200"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
