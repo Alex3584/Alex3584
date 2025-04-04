@@ -192,10 +192,9 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
 ---
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  <summary><h2>🛠️ My used technologies and tools</h2></summary>
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  ### 👨‍💻 Programming and Markup Languages
 
   <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -210,7 +209,7 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  ### 🧰 Frameworks and Libraries
 
   <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB"></a>
@@ -231,7 +230,7 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
     <a href="#"><img alt="i18n" src="https://img.shields.io/badge/i18n-0078d7.svg?logo=translate&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Back-End, CMS and APIs</h3>
+  ### 🗄️ Back-End, CMS and APIs
 
   <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
@@ -244,7 +243,8 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
     <a href="#"><img alt="Open Cart" src="https://img.shields.io/badge/OpenCart-239BD7.svg?logo=opencart&logoColor=white"></a>
   </p>
 
-  <h3>⚙️ Build Tools and Package Managers</h3>
+  ### ⚙️ Build Tools and Package Managers
+  
   <p>
     <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
     <a href="#"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?logo=babel&logoColor=black"></a>
@@ -253,21 +253,21 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
     <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white"></a>
   </p>
 
-  <h3>🛠️ DevOps and Environments</h3>
+  ### 🛠️ DevOps and Environments
 
   <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Open Server" src="https://img.shields.io/badge/Open%20Server-FF6600.svg?logo=windows&logoColor=white"></a>
   </p>
 
-  <h3>🎨 UI/UX and Design</h3>
+  ### 🎨 UI/UX and Design
 
   <p>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF.svg?logo=adobe-photoshop&logoColor=white"></a>
   </p>
 
-  <h3>🧪 Code Quality and Formatting</h3>
+  ### 🧪 Code Quality and Formatting
 
   <p>
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=black"></a>
@@ -275,13 +275,13 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
     <a href="#"><img alt="Stylesheet" src="https://img.shields.io/badge/Stylesheet-000000.svg?logo=css3&logoColor=white"></a>
   </p>
 
-  <h3>🧠 AI and APIs</h3>
+  ### 🧠 AI and APIs
 
   <p>
     <a href="#"><img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  ### 🗄️ Databases and Cloud Hosting
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -291,7 +291,7 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
-  <h3>📋 Methodologies and Project Management</h3>
+  ### 📋 Methodologies and Project Management
 
   <p>
     <a href="#"><img alt="BEM" src="https://img.shields.io/badge/BEM-000000.svg?logo=css3&logoColor=white"></a>
@@ -301,7 +301,7 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
     <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
 </p>
 
-  <h3>💻 Software and Tools</h3>
+  ### 💻 Software and Tools
 
   <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
