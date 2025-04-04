@@ -173,7 +173,7 @@
     src="https://github-readme-stats.vercel.app/api?username=Alex3584&show_icons=true&rank_icon=github&theme=tokyonight"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight" height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight" height="192"
   />
 </p>
 
