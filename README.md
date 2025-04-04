@@ -43,7 +43,7 @@
 
 ---
 
-## 🧰 My Tech Stack</h2>
+## 🧰 My Tech Stack
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -171,11 +171,10 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Alex3584&show_icons=true&rank_icon=github&theme=tokyonight"
-    width="420"
+    height="200" width="420"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight"
-    width="420"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight" height="200" width="420"
   />
 </p>
 
