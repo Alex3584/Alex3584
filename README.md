@@ -174,7 +174,7 @@
     width="450"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight" height="170" width="450"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3584&layout=compact&theme=tokyonight" height="175"
   />
 </p>
 
