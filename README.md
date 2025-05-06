@@ -159,8 +159,8 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alex3584/Formula-input-functionality.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=ai-translate&theme=tokyonight" />
+  <a href="https://github.com/Alex3584/html5up-laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=html5up-laravel&theme=tokyonight" />
   </a>
   <a href="https://github.com/Alex3584/react-hooks-lab">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=react-hooks-lab&theme=tokyonight" />
