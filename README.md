@@ -159,7 +159,7 @@ Hi! I'm **Oleksandr**, a Full Stack developer passionate about travel, technolog
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alex3584/ai-translate">
+  <a href="https://github.com/Alex3584/ai-translate.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex3584&repo=ai-translate&theme=tokyonight" />
   </a>
   <a href="https://github.com/Alex3584/react-hooks-lab">
